@@ -1,4 +1,4 @@
-# Hello there! I'm jonathan but you can call me Jon :wave:
+### Hello there! I'm jonathan but you can call me Jon :wave:
 
 👩🏻‍💻 Fullstack Web developer with big passion for React
 👩🏻‍🎓 Studied Fullstack Web Development at Chas Academy, Sweden
