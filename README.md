@@ -1,4 +1,4 @@
-### Hello there! :ave:
+### Hello there! :wave:
 
 #### I'm Jonathan but you can call me Jon
 
